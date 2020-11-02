@@ -1,0 +1,87 @@
+8 cores
+size 10000
+0.0184967 seconds
+0.0185017 seconds
+0.0185371 seconds Median
+0.0185837 seconds
+0.0305395 seconds
+
+size 5000
+0.00493724 seconds
+0.00497714 seconds
+0.00499125 seconds Median
+0.00499662 seconds
+0.00536446 seconds
+
+size 2500
+0.00150792 seconds
+0.00151283 seconds
+0.00152135 seconds Median
+0.00152709 seconds
+0.00152855 seconds
+
+4 cores
+size 10000
+0.02206 seconds
+0.0221674 seconds
+0.0221721 seconds Median
+0.0221929 seconds
+0.022197 seconds
+
+size 5000
+0.00594124 seconds
+0.00595376 seconds
+0.00596851 seconds Median
+0.0059801 seconds
+0.00599162 seconds
+
+size 2500
+0.00166367 seconds
+0.00172717 seconds
+0.00173494 seconds Median
+0.00176566 seconds
+0.00177323 seconds
+
+core 2
+size 10000
+0.0365744 seconds
+0.0395947 seconds
+0.0411419 seconds Median
+0.0414482 seconds
+0.0418871 seconds
+
+size 5000
+0.0101396 seconds
+0.0103384 seconds
+0.0108177 seconds Median
+0.0107895 seconds
+0.0108627 seconds
+
+size 2500
+0.00267664 seconds
+0.0028226 seconds
+0.0028457 seconds Median
+0.00285588 seconds
+0.00285356 seconds
+
+core 1
+size 10000
+0.0697314 seconds
+0.069838 seconds
+0.070067 seconds Median
+0.0702902 seconds
+0.0708886 seconds
+
+size 5000
+0.0178854 seconds
+0.017911 seconds
+0.0179512 seconds Median
+0.0179627 seconds
+0.0188243 seconds
+
+size  2500
+0.00456722 seconds
+0.00457326 seconds
+0.00458195 seconds Median
+0.00459487 seconds
+0.00524614 seconds
